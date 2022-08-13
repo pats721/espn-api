@@ -31,7 +31,7 @@ from espn_api.hockey import League
 # Baseball API
 from espn_api.baseball import League
 # Init
-league = League(league_id=222, year=2019)
+league = League(league_id=156254, year=2019)
 ```
 
 ### Run Tests

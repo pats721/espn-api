@@ -151,7 +151,7 @@ class League(BaseLeague):
 
     def recent_activity(self, size: int = 25, msg_type: str = None) -> List[Activity]:
         '''Returns a list of recent league activities (Add, Drop, Trade)'''
-        if self.year < 2019:
+        if self.year < 2022:
             raise Exception('Cant use recent activity before 2019')
 
         msg_types = [178,180,179,239,181,244]

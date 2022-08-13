@@ -44,16 +44,16 @@ POSITION_MAP = {
 }
 
 PRO_TEAM_MAP = {
-    0 : 'None',
-    1 : 'ATL',
-    2 : 'BUF',
-    3 : 'CHI',
-    4 : 'CIN',
-    5 : 'CLE',
-    6 : 'DAL',
-    7 : 'DEN',
-    8 : 'DET',
-    9 : 'GB',
+    0: 'None',
+    1: 'ATL',
+    2: 'BUF',
+    3: 'CHI',
+    4: 'CIN',
+    5: 'CLE',
+    6: 'DAL',
+    7: 'DEN',
+    8: 'DET',
+    9: 'GB',
     10: 'TEN',
     11: 'IND',
     12: 'KC',
@@ -118,7 +118,7 @@ PLAYER_STATS_MAP = {
     86: "madeExtraPoints",
     88: "missedExtraPoints",
 
-    89:"defensive0PointsAllowed",
+    89: "defensive0PointsAllowed",
     90: "defensive1To6PointsAllowed",
     91: "defensive7To13PointsAllowed",
     92: "defensive14To17PointsAllowed",
@@ -147,22 +147,22 @@ PLAYER_STATS_MAP = {
     136: "defensiveOver550YardsAllowed",
 
     # Punter Stats
-    140: "puntsInsideThe10", # PT10
-    141: "puntsInsideThe20", # PT20
-    148: "puntAverage44.0+", # PTA44
-    149: "puntAverage42.0-43.9", #PTA42
-    150: "puntAverage40.0-41.9", #PTA40
+    140: "puntsInsideThe10",  # PT10
+    141: "puntsInsideThe20",  # PT20
+    148: "puntAverage44.0+",  # PTA44
+    149: "puntAverage42.0-43.9",  # PTA42
+    150: "puntAverage40.0-41.9",  # PTA40
 
     # Head Coach stats
-    161: "25+pointsWinMargin", #WM25
-    162: "20-24pointWinMargin", #WM20
-    163: "15-19pointWinMargin", #WM15
-    164: "10-14pointWinMargin", #WM10
-    165: "5-9pointWinMargin", # WM5
-    166: "1-4pointWinMargin", # WM1
+    161: "25+pointsWinMargin",  # WM25
+    162: "20-24pointWinMargin",  # WM20
+    163: "15-19pointWinMargin",  # WM15
+    164: "10-14pointWinMargin",  # WM10
+    165: "5-9pointWinMargin",  # WM5
+    166: "1-4pointWinMargin",  # WM1
 
-    155: "TeamWin", # TW
+    155: "TeamWin",  # TW
 
-    171: "20-24pointLossMargin", # LM20
-    172: "25+pointLossMargin", # LM25
+    171: "20-24pointLossMargin",  # LM20
+    172: "25+pointLossMargin",  # LM25
 }
